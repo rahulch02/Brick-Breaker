@@ -2,8 +2,9 @@
 
 A simple progressing game (like Subway Surfer) layout, created using Unity Game Engine which is based on C# language.
 
+**Here's a Demonstration Video:**
 
-[![Here's a Demonstration video](https://img.youtube.com/vi/A6w2vCkSskY/maxresdefault.jpg)](https://youtu.be/A6w2vCkSskY)
+[!(![image](https://user-images.githubusercontent.com/73461681/176995964-1bea2109-f2ef-4f8c-90b9-c1fb3bb2830d.png))](https://youtu.be/A6w2vCkSskY)
 
 
 The above game comprises of the following physics phenomena using 3D Rigid Body and Collision GameObject properties:
