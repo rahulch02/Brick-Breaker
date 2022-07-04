@@ -11,7 +11,7 @@ The above game comprises of the following physics phenomena using 3D Rigid Body 
 
 1) **Simple Harmonic Motion**: of points to be obtained by the player.
 
-2) **Shooting Projectile**: in directions,aimed by the player cursor.
+2) **Shooting Projectile**: in directions, aimed by the player cursor.
 
 3) **Progressing Difficulty**: Increasing speed of player and hostile spawn frequency.
 
