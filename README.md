@@ -15,4 +15,4 @@ The above game comprises of the following physics phenomena using 3D Rigid Body 
 
 3) **Progressing Difficulty**: Increasing speed of player and hostile spawn frequency.
 
-4) **Randomized Spawn**: of game assets like planes to jump on and points to score.
+4) **Randomized Spawn**: of game assets like planes to jump on, points to score, as well as the enemies.
